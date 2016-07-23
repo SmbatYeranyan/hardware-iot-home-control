@@ -16,6 +16,8 @@ Hardware part coming soon
 **Board**
 
 [![Showcase](iot-hardware-1.PNG)](iot-hardware-1.PNG "Home Ctrl showcase")
+[![Showcase](iot-hardware-2.PNG)](iot-hardware-2.PNG "Home Ctrl showcase")
+[![Showcase](iot-hardware-3.PNG)](iot-hardware-3.PNG "Home Ctrl showcase")
 
 **Showcase video**
 
