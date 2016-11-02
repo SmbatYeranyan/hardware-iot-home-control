@@ -14,6 +14,8 @@ Android part of the project [**repo**](https://github.com/bernardpletikosa/andro
 
 Server part of the project [**repo**](https://github.com/SmbatYeranyan/nodejs-iot-home-control)
 
+Firmware part of the project [**repo**](https://github.com/SmbatYeranyan/firmware-iot-home-control)
+
 **Board**
 
 [![Showcase](iot-hardware-1.PNG)](iot-hardware-1.PNG "Home Ctrl showcase")
